@@ -32,6 +32,8 @@ currently_learning: ["Framer Motion and React Native"]
 hobbies: ["Gaming", "Sports"]
 ```
 
+<hr />
+
 <h2>🚀  Some Tools I Have Used and Learned</h2>
 
 <p align="left">
