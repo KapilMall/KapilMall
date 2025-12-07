@@ -3,6 +3,6 @@
 </p>
 
 <p>
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0cGU4MmkwNDJyd2VleHkwM3Rka3ViaHo1ZXUzbmlyd2s5anV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
+  <img style={{ width: '20px' }} src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0cGU4MmkwNDJyd2VleHkwM3Rka3ViaHo1ZXUzbmlyd2s5anV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif"/>
   A Little Bit About Me
 </p>
