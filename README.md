@@ -31,3 +31,5 @@ technical_background:
 currently_learning: ["Framer Motion and React Native"]
 hobbies: ["Gaming", "Sports"]
 ```
+
+<h2>🚀  Some Tools I Have Used and Learned</h2>
