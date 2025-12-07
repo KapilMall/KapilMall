@@ -10,6 +10,7 @@
 name: Kapil Mall
 located_in: New Delhi, India
 current_job: Frontend Developer
+Experience: 3.5 Years
 education:
   [
     "B.Tech in Computer Science and Engineering",
