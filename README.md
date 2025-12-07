@@ -5,3 +5,29 @@
 <h2>
   <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0cGU4MmkwNDJyd2VleHkwM3Rka3ViaHo1ZXUzbmlyd2s5anV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" width="30" valign="middle"/>  &nbsp;A Little Bit About Me
 </h2>
+
+```yaml
+name: Kapil Mall
+located_in: New Delhi, India
+current_job: Frontend Developer
+education:
+  [
+    "B.Tech in Computer Science and Engineering",
+  ]
+fields_of_interests:
+  [
+    "Web Development",
+    "Mobile App Development"
+    "UI/UX",
+    "DevOps",
+  ]
+technical_background:
+  [
+    "Frontend Developer - ZiggleTech"
+    "Frontend Developer - Infosys"
+    "Frontend Developer - Sevaro Health"
+  ]
+  
+currently_learning: ["Framer Motion and React Native"]
+hobbies: ["Gaming", "Sports"]
+```
