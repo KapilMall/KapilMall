@@ -3,6 +3,8 @@
 </p>
 
 <p style="display: flex; align-items: center; justify-content: center; background-color: green">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0cGU4MmkwNDJyd2VleHkwM3Rka3ViaHo1ZXUzbmlyd2s5anV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" style="width: 20px; height: 20px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmE0cGU4MmkwNDJyd2VleHkwM3Rka3ViaHo1ZXUzbmlyd2s5anV1diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GghGKaZ8JeHJx0apQC/giphy.gif" 
+    style="width: 20px; height: 20px; font-size: 30px"
+  />
   A Little Bit About Me
 </p>
